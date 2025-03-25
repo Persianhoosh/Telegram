@@ -1,4 +1,6 @@
 ![GitHub Icon](https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/github.png)
+<img src="https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/github.png" width="50">
+
 [![Instagram]()](https://instagram.com/aihoma)
 [![LinkedIn]()](https://www.linkedin.com/in/aihoma/)
 [![X]()](https://x.com/Ai_Homa)
