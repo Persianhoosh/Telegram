@@ -1,9 +1,7 @@
 <a href="https://github.com/Persianhoosh">
     <img src="https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/github.png" width="50">
-</a>
-<a href="https://github.com/Persianhoosh">
-    <img src="https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/youtube.png" width="50">
-</a>
+</a><a href="https://github.com/Persianhoosh">
+    <img src="https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/youtube.png" width="50"></a>
 <a href="https://github.com/Persianhoosh">
     <img src="https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/instagram.png" width="50">
 </a>
