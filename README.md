@@ -1,6 +1,7 @@
-[<img src="https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/youtube.png" width="50>]
-[<img src="https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/github.png" width="50>]
-[<img src="https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/instagram.png" width="50>]
+[<img src="https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/youtube.png" width="50">](https://www.youtube.com)
+[<img src="https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/github.png" width="50">](https://www.youtube.com)
+[<img src="https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/telegram.png" width="50">](https://www.youtube.com)
+
 
 
 <!--
