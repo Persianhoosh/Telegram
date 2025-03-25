@@ -13,9 +13,9 @@ How to Use :
 **bash**
   
   ╰─➢ pip install telethon
-==================================
   
 2. Replace Placeholder Values:
+=================================
    
     ✅YOUR_API_ID
    
@@ -31,7 +31,6 @@ How to Use :
 **bash**
   
   ╰─➢ python leave All.py
-===================================
 
 **Notes**
 
