@@ -1,14 +1,21 @@
 <a href="https://github.com/Persianhoosh">
     <img src="https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/github.png" width="50">
 </a>
+<a href="https://github.com/Persianhoosh">
+    <img src="https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/youtube.png" width="50">
+</a>
+<a href="https://github.com/Persianhoosh">
+    <img src="https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/instagram.png" width="50">
+</a>
 
-
+<!--
 [![Instagram]()](https://instagram.com/aihoma)
 [![LinkedIn]()](https://www.linkedin.com/in/aihoma/)
 [![X]()](https://x.com/Ai_Homa)
 [![Hugging Face]()](https://huggingface.co/AiHoma)
 [![Telegram])](https://t.me/Aihoma)
 [![Follow]()](https://github.com/AiHoma)
+-->
 
    **How to Use :**
 
