@@ -1,11 +1,3 @@
-Fallow me :
-   ==============================
-   [<img src="https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/youtube.png" width="50">](https://youtube.com/persianhoosh)
-   [<img src="https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/github.png" width="50">](https://github.com/persianhoosh)
-   [<img src="https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/telegram.png" width="50">](https://t.me/Aihoma)
-   [<img src="https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/instagram.png" width="50">](https://)
-
-
 How to Use :
    ==============================
 
@@ -40,3 +32,10 @@ Note
       Use with Caution:
       This script leaves all groups and channels. Use it carefully.
 __________________________________________
+
+Fallow me :
+   ==============================
+   [<img src="https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/youtube.png" width="50">](https://youtube.com/persianhoosh)
+   [<img src="https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/github.png" width="50">](https://github.com/persianhoosh)
+   [<img src="https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/telegram.png" width="50">](https://t.me/Aihoma)
+   [<img src="https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/instagram.png" width="50">](https://)
