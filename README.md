@@ -18,6 +18,8 @@ How to Use :
    ===============================
      bash :
      ~> python leave All.py
+_________________________________
+
 Note
    ===============================     
       API Credentials:
@@ -31,7 +33,7 @@ Note
 
       Use with Caution:
       This script leaves all groups and channels. Use it carefully.
-__________________________________________
+_________________________________
 
 Fallow me :
    ==============================
