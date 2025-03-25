@@ -1,5 +1,7 @@
 *How to Use:*
-   ==============================
+=
+Leave all groups and channels in Telegram
+
 
 1.Install Dependencies:
    ==============================
