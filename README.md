@@ -9,6 +9,8 @@
 <a href="https://github.com/Persianhoosh">
     <img src="https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/instagram.png" width="50">
 </a>
+[<img src="https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/github.png" width="50
+
 
 <!--
 [![Instagram]()](https://instagram.com/aihoma)
