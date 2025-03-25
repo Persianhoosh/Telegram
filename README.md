@@ -8,6 +8,7 @@ How to Use :
 =================================
 
 1. Install Dependencies:
+   ==============================
    Make sure you have the telethon library installed. You can install it using pip:
                         
 **bash**
@@ -15,8 +16,8 @@ How to Use :
   ╰─➢ pip install telethon
   
 2. Replace Placeholder Values:
-=================================
-   
+   ===============================
+      
     ✅YOUR_API_ID
    
     ✅YOUR_API_HASH
