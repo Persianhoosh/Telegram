@@ -3,8 +3,9 @@
 [<img src="https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/telegram.png" width="50">](https://t.me/Aihoma)
 [<img src="https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/instagram.png" width="50">](https://)
 
-
-   **How to Use :**
+=================================
+How to Use :
+=================================
 
 1. Install Dependencies:
    Make sure you have the telethon library installed. You can install it using pip:
