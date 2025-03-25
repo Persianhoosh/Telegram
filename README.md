@@ -4,6 +4,21 @@
 [<img src="https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/instagram.png" width="50">](https://)
 
 
+<div align="center">
+    <a href="https://youtube.com/persianhoosh">
+        <img src="https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/youtube.png" width="50">
+    </a>
+    <a href="https://github.com/persianhoosh">
+        <img src="https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/github.png" width="50">
+    </a>
+    <a href="https://t.me/Aihoma">
+        <img src="https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/telegram.png" width="50">
+    </a>
+    <a href="https://">
+        <img src="https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/instagram.png" width="50">
+    </a>
+</div>
+
 
 <!--
 [![Instagram]()](https://instagram.com/aihoma)
