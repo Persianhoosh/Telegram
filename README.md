@@ -33,6 +33,7 @@ How to Use :
   ╰─➢ python leave All.py
 
 **Notes**
+=========================
 
 API Credentials:
 Obtain your API ID and API Hash from my.telegram.org.
