@@ -26,6 +26,7 @@ How to Use :
       with your actual Telegram API credentials and phone number.
     
 3.Run the Script:
+=
   
 **bash**
   
