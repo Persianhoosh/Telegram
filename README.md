@@ -1,7 +1,9 @@
-[<img src="https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/youtube.png" width="50">](https://youtube.com/persianhoosh)
-[<img src="https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/github.png" width="50">](https://github.com/persianhoosh)
-[<img src="https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/telegram.png" width="50">](https://t.me/Aihoma)
-[<img src="https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/instagram.png" width="50">](https://)
+Fallow me :
+   ==============================
+      [<img src="https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/youtube.png" width="50">](https://youtube.com/persianhoosh)
+      [<img src="https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/github.png" width="50">](https://github.com/persianhoosh)
+      [<img src="https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/telegram.png" width="50">](https://t.me/Aihoma)
+      [<img src="https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/instagram.png" width="50">](https://)
 
 
 How to Use :
@@ -10,8 +12,8 @@ How to Use :
 1.Install Dependencies:
    ==============================
       Make sure you have the telethon library installed. You can install it using pip:
-      bash
-      pip install telethon
+      bash :
+      ~> pip install telethon
   
 2.Replace Placeholder Values:
    ===============================
@@ -23,7 +25,7 @@ How to Use :
 3.Run the Script:
    ===============================
      bash :
-     python leave All.py
+     ~> python leave All.py
 Note
    ===============================     
       API Credentials:
